@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="Autor: Adrian Spiżewski" content="Klasa: Ip">
+    <title>Formularz</title>
+</head>
+<body>
+    <form action="http://wp.pl" />
+    <fieldset>
+        <legend> Komentuj
+        </legend>
+        <input type="hidden" name="to" value="twój@adres-email.pl" />
+        <input type="hidden" name="subject" value="Temat wiadomości" />
+        <dl>
+            <dt><strong>Imię:</strong></dt>
+
+            <dd>
+                <input type="text" name="imię" size="60">
+            </dd>
+            <dt><strong>Email:</strong></dt>
+            <dd>
+                <input type="email" name="email" size="60">
+            </dd>
+            <dt><strong>Komentarz</strong></dt>
+            <dd>
+                <textarea name="opinie" rows="60" cols="100"></textarea>
+            </dd>
+            <p>
+                <input type="submit" value="wyślij">
+            </p>
+        </dl>
+    </fieldset>  
+    
+</body>
+</html>
