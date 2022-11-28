@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb00de4f-c14f-4fae-9cef-483cd0dbc524" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zad18/kwerendy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad18/obliczenia.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad18/stacja.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad18/styl3.css" afterDir="false" />
+    <list default="true" id="cb00de4f-c14f-4fae-9cef-483cd0dbc524" name="Default Changelist" comment="hui">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +50,16 @@
       <workItem from="1667819919510" duration="2000" />
       <workItem from="1667819932851" duration="113000" />
       <workItem from="1667820107298" duration="318000" />
-      <workItem from="1669290610202" duration="1872000" />
+      <workItem from="1669290610202" duration="1986000" />
     </task>
+    <task id="LOCAL-00001" summary="hui">
+      <created>1669292594098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669292594098</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hui" />
+    <option name="LAST_COMMIT_MESSAGE" value="hui" />
   </component>
 </project>
