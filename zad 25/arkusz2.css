@@ -1,0 +1,12 @@
+body {
+    color: white;
+    background-color: red;
+}
+
+button {
+    width: 100%;
+    background-color: crimson;
+    color: black;
+    height: 100px;
+    font-size: x-large;
+}

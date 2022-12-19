@@ -1,0 +1,44 @@
+header {
+    border-bottom: 2px whtie dashed;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 1000px;
+    height: 40px;
+    border-bottom: 1px white dashed;
+
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 1000px;
+    height: 40px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: auto;
+    font-family: Arial;
+
+}
+
+#content {
+    background: url("deadpool1-gallery-image.jpg");
+    width: 1000px;
+    height: 538px;
+}
+
+#lista {
+    color: white;
+    background-color: rgb(0, 0, 0, 0.7);
+    width: 230px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 20px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+

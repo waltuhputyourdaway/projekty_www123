@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb00de4f-c14f-4fae-9cef-483cd0dbc524" name="Default Changelist" comment="hui">
+    <list default="true" id="1312e47b-15d4-432b-abc8-d42c43233aec" name="Changes" comment="asf">
+      <change afterPath="$PROJECT_DIR$/.idea/projekty_www123.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad 20 linux/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad 20 linux/linux.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad 20 linux/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad 25/arkusz.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad 25/arkusz2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad 25/balwan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad 25/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad 25/mikolaj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad 25/podstrona.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad18/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad25- deadpool/arkusz.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad25- deadpool/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad28 pupile/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad28 pupile/koty.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad28 pupile/psy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad28 pupile/styl5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie 22/arkusz.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie 22/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/projekty www.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad18/obliczenia.html" beforeDir="false" afterPath="$PROJECT_DIR$/zad18/obliczenia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad18/stacja.html" beforeDir="false" afterPath="$PROJECT_DIR$/zad18/stacja.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad18/styl3.css" beforeDir="false" afterPath="$PROJECT_DIR$/zad18/styl3.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +37,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -23,43 +48,36 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2HDW1IVs9J9h6WVD73n7byVRLc2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2IUYhZ3BK4gOT3aVwkisZtQLGyK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cb00de4f-c14f-4fae-9cef-483cd0dbc524" name="Default Changelist" comment="" />
-      <created>1667819918099</created>
+      <changelist id="1312e47b-15d4-432b-abc8-d42c43233aec" name="Changes" comment="" />
+      <created>1670237750649</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667819918099</updated>
-      <workItem from="1667819919510" duration="2000" />
-      <workItem from="1667819932851" duration="113000" />
-      <workItem from="1667820107298" duration="318000" />
-      <workItem from="1669290610202" duration="1986000" />
+      <updated>1670237750649</updated>
+      <workItem from="1670237752114" duration="2023000" />
+      <workItem from="1670406408333" duration="1916000" />
+      <workItem from="1670408376710" duration="162000" />
+      <workItem from="1670838537519" duration="3150000" />
+      <workItem from="1671012564448" duration="538000" />
+      <workItem from="1671443097283" duration="4931000" />
     </task>
-    <task id="LOCAL-00001" summary="hui">
-      <created>1669292594098</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1669292594098</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,7 +95,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="hui" />
-    <option name="LAST_COMMIT_MESSAGE" value="hui" />
+    <MESSAGE value="asf" />
+    <option name="LAST_COMMIT_MESSAGE" value="asf" />
   </component>
 </project>

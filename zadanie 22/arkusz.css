@@ -1,0 +1,25 @@
+#header {
+    color: orange;
+    text-align: center;
+    background-color: black;
+}
+
+#blok_lewy_gorny {
+    background-color: gray;
+    float: left;
+    width: 30%;
+}
+
+#blok_glowny {
+    background-color: yellow;
+    float: right;
+    width: 70%;
+    height: 40%;
+}
+
+footer {
+    background-color: black;
+    color: orange;
+    text-align: center;
+    float: bottom;
+}
