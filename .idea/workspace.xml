@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1312e47b-15d4-432b-abc8-d42c43233aec" name="Changes" comment="asf">
-      <change afterPath="$PROJECT_DIR$/.idea/projekty_www123.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad 20 linux/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad 20 linux/linux.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad 20 linux/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad 25/arkusz.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad 25/arkusz2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad 25/balwan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad 25/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad 25/mikolaj.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad 25/podstrona.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad18/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad25- deadpool/arkusz.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad25- deadpool/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad28 pupile/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad28 pupile/koty.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad28 pupile/psy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad28 pupile/styl5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadanie 22/arkusz.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadanie 22/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/projekty www.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad18/obliczenia.html" beforeDir="false" afterPath="$PROJECT_DIR$/zad18/obliczenia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad18/stacja.html" beforeDir="false" afterPath="$PROJECT_DIR$/zad18/stacja.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad18/styl3.css" beforeDir="false" afterPath="$PROJECT_DIR$/zad18/styl3.css" afterDir="false" />
-    </list>
+    <list default="true" id="1312e47b-15d4-432b-abc8-d42c43233aec" name="Changes" comment="asf" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,8 +49,16 @@
       <workItem from="1670408376710" duration="162000" />
       <workItem from="1670838537519" duration="3150000" />
       <workItem from="1671012564448" duration="538000" />
-      <workItem from="1671443097283" duration="4931000" />
+      <workItem from="1671443097283" duration="4971000" />
     </task>
+    <task id="LOCAL-00001" summary="asf">
+      <created>1671449029667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671449029667</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
