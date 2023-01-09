@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1312e47b-15d4-432b-abc8-d42c43233aec" name="Changes" comment="asf">
-      <change afterPath="$PROJECT_DIR$/css/zadanie 03 jednostki css/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/zadanie 03 jednostki css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/zadanie 04 selektory/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/zadanie 04 selektory/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
       <workItem from="1672652970450" duration="1265000" />
       <workItem from="1672656839791" duration="736000" />
       <workItem from="1672825532203" duration="1469000" />
+      <workItem from="1673257625265" duration="1865000" />
     </task>
     <task id="LOCAL-00001" summary="asf">
       <created>1671449029667</created>

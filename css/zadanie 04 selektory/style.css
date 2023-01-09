@@ -1,0 +1,50 @@
+* {
+    font-family: Arial;
+    font-size: large;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color: #128870;
+}
+
+.note {
+    color: #404040;
+}
+
+p.note {
+    color: blue;
+}
+
+#introduction {
+color: forestgreen;
+}
+
+li>a {
+    color: red;
+}
+
+li a {
+  background-color: white;
+}
+
+footer {
+    background-color: #303030;
+    color: white;
+    text-align: center;
+}
+
+h1 + p {
+    color: white;
+}
+
+h1 - p {
+    color: white;
+     }
