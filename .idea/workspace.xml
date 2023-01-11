@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1312e47b-15d4-432b-abc8-d42c43233aec" name="Changes" comment="asf">
-      <change afterPath="$PROJECT_DIR$/css/zadanie 04 selektory/zadanie 04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/zadanie 05 selektory atrybutów/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/zadanie 06 selektory specjalne/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/zadanie 06 selektory specjalne/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/zadanie 07 pseudoklasy i pseudoelementy/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/zadanie 07 pseudoklasy i pseudoelementy/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/zadanie 07 pseudoklasy i pseudoelementy/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/zadanie 07 pseudoklasy i pseudoelementy/style2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad28 pupile.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -58,7 +63,9 @@
       <workItem from="1672656839791" duration="736000" />
       <workItem from="1672825532203" duration="1469000" />
       <workItem from="1673257625265" duration="1937000" />
-      <workItem from="1673261501905" duration="1448000" />
+      <workItem from="1673261501905" duration="1459000" />
+      <workItem from="1673430542234" duration="157000" />
+      <workItem from="1673430708305" duration="1625000" />
     </task>
     <task id="LOCAL-00001" summary="asf">
       <created>1671449029667</created>
@@ -88,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673259532967</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="asf">
+      <created>1673262969976</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673262969976</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
