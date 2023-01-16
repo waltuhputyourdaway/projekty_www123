@@ -1,0 +1,19 @@
+h1 {
+    font-family: arial, verdana, sans-serif;
+    font-variant: small-caps;
+    font-size: 30px;
+}
+
+h2 {
+    font-family: arial, verdana, sans-serif; font-weight: bold;
+    font-size: 12pt;
+}
+
+p {
+    font-family: "Times New Roman", serif; font-style: italic;
+    font-variant: normal;
+    font-size: 120%;
+}
+
+
+
