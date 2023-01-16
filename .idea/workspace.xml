@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1312e47b-15d4-432b-abc8-d42c43233aec" name="Changes" comment="asf">
-      <change afterPath="$PROJECT_DIR$/css/zadanie 09/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/zadanie 09/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/zadanie 10 Tło/tlo1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/zadanie 10 Tło/tło2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/zadanie 10 Tło/tło3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -61,6 +63,7 @@
       <workItem from="1673430542234" duration="157000" />
       <workItem from="1673430708305" duration="1649000" />
       <workItem from="1673862284922" duration="1325000" />
+      <workItem from="1673866818535" duration="952000" />
     </task>
     <task id="LOCAL-00001" summary="asf">
       <created>1671449029667</created>
